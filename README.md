@@ -17,3 +17,7 @@ mydb = mysql.connector.connect(
 
 print(mydb)
 ```
+![crudcmd](https://github.com/user-attachments/assets/1d8b9826-4483-405a-9f78-740c098b08cc)
+
+![crudcmd02](https://github.com/user-attachments/assets/428030fb-eae2-4acf-8338-c2e3ef9515aa)
+
