@@ -21,3 +21,7 @@ print(mydb)
 
 ![crudcmd02](https://github.com/user-attachments/assets/428030fb-eae2-4acf-8338-c2e3ef9515aa)
 
+
+
+![crudgui](https://github.com/user-attachments/assets/b001d7fb-adea-4d98-93e4-6a2fd6792926)
+
